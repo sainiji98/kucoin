@@ -1,0 +1,2 @@
+# kucoin
+trying new project
